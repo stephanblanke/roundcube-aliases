@@ -8,8 +8,8 @@ $labels['aliasesmanagealiases'] = 'Manage aliases';
 $labels['aliasesnewalias'] = 'New alias';
 $labels['aliaseseditalias'] = 'Edit alias';
 $labels['aliasesaliasname'] = 'Alias';
-$labels['aliasesenablealias'] = 'Enable alias';
-$labels['aliasesaliasenabled'] = 'Enabled';
+$labels['aliasesenable'] = 'Enable/Disable';
+$labels['aliasesstatustoggled'] = 'Status changed';
 
 
 $messages = array();
