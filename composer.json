@@ -1,0 +1,29 @@
+{
+    "name": "stephanblanke/aliases",
+    "type": "roundcube-plugin",
+    "description": "Lets you manage Postfix Admin aliases",
+    "keywords": ["mail","alias","aliases","pfa","postfixadmin"],
+    "homepage": "https://github.com/stephanblanke/roundcube-aliases",
+    "license": "GPL-2.0",
+    "authors": [
+        {
+            "name": "Stephan Blanke",
+            "email": "stephanblanke@users.noreply.github.com",
+            "role": "Developer"
+        },
+        {
+            "name": "Gianluca Giacometti",
+            "email": "php@gianlucagiacometti.it",
+            "role": "Developer"
+        }
+    ]
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "http://plugins.roundcube.net"
+        }
+    ],
+    "require": {
+        "roundcube/plugin-installer": ">=0.1.3"
+    }
+}
