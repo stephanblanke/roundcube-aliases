@@ -16,7 +16,7 @@
             "email": "php@gianlucagiacometti.it",
             "role": "Developer"
         }
-    ]
+    ],
     "repositories": [
         {
             "type": "composer",
