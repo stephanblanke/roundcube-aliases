@@ -5,6 +5,7 @@
     "keywords": ["mail","alias","aliases","pfa","postfixadmin"],
     "homepage": "https://github.com/stephanblanke/roundcube-aliases",
     "license": "GPL-2.0",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "Stephan Blanke",
